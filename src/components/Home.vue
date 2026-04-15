@@ -32,6 +32,8 @@
   <div class="box">
     <h2>POSTS</h2>
     <hr>
+    <p class="post"><b>15 APR 2026 > </b><RouterLink to="/post-003">#003 - Prompt Injection Attacks in Large Language Models
+</RouterLink></p>
     <p class="post"><b>05 MAR 2026 > </b><RouterLink to="/post-002">#002 - Random Dogs</RouterLink></p>
     <p class="post"><b>04 MAR 2026 > </b><RouterLink to="/post-001">#001 - Hello World!</RouterLink></p>
   </div>

@@ -81,6 +81,10 @@ a:hover:not(.button) {
   margin: 12px 0px 12px 0px;
 }
 
+.margin-4top {
+  margin: -4px 0px 0px 0px;
+}
+
 .textLink {
   color: var(--grad-2);
 }
